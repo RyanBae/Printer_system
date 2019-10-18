@@ -1,10 +1,9 @@
-package Printer;
+package printer;
 
-import java.util.ArrayList;
 
 public class Document {
     Integer page;
-    String title, content;
+    String title, content, userNo;
 
     public Integer getPage() {
         return page;
@@ -30,12 +29,21 @@ public class Document {
         this.content = content;
     }
 
+    public String getUserNo() {
+        return userNo;
+    }
+
+    public void setUserNo(String userNo) {
+        this.userNo = userNo;
+    }
+
     @Override
     public String toString() {
         return "Document{" +
                 "page=" + page +
                 ", title='" + title + '\'' +
                 ", content='" + content + '\'' +
+                ", userNo='" + userNo + '\'' +
                 '}';
     }
 }
