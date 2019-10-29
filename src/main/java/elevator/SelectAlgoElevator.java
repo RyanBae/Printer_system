@@ -1,5 +1,5 @@
 package elevator;
 
-public interface SelectElevator{
+public interface SelectAlgoElevator {
     public int algorithm();
 }

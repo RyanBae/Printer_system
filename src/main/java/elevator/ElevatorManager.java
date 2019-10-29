@@ -1,8 +1,7 @@
 package elevator;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 /**
  * Created by jack on 18/07/2019.
@@ -15,10 +14,11 @@ import java.util.Random;
 public class ElevatorManager {
 
     private List<ElevatorController> controllers;
+    private SelectAlgoElevator selectAlgoElevator;
+
 
     // el 컨트롤 count 만큼 생성 하여 controller 타입 리스트에 담음
     public ElevatorManager(int controllerCount){
-        System.out.println("[1]====="+controllerCount);
         controllers = new ArrayList<>(controllerCount);
         for(int i=0;i<controllerCount;i++){
             ElevatorController controller = new ElevatorController(i);
@@ -31,18 +31,26 @@ public class ElevatorManager {
     // selectElevator = 아이디
     // 파라미터 destination = 랜덤으로 생성된 1~20 중의 목적지
     public void requestElevator(int destination){
-        System.out.println("[2]======");
         int selectedElevator = selectElevator(destination);
-        System.out.println("[4]======");
-        System.out.println(selectedElevator);
         controllers.get(selectedElevator).gotoFloor(destination);
     }
 
     private int selectElevator(int destination){
-        System.out.println("[3]======");
         //some algorithm
+        Calendar calendar = Calendar.getInstance();
+        //calendar.add(Calendar.HOUR,14);
 
-        Random r = new Random();
-        return r.nextInt(3);
+        SimpleDateFormat dateFormat = new SimpleDateFormat();
+        String date =  dateFormat.format(calendar.getTime());
+        String subDate = date.substring(11, 13);
+        int res=0;
+        SelectFactory selectFactory = new SelectFactory();
+        for(int i=0; i<controllers.size(); i++){
+            // 문자열이 포함되어 있지 않으면 -1을 리턴
+            res = selectFactory.selectElevator(subDate);
+        }
+        return res;
     }
+
+
 }

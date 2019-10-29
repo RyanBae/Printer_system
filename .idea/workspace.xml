@@ -5,30 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7db16e5f-d15c-491a-adc6-2116086d67b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/account/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/account/Deposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/account/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/elevator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/elevator/ElevatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/elevator/ElevatorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategyPattern/Attack/AttackStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategyPattern/Attack/MissileStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategyPattern/Attack/PunchStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategyPattern/RobotMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategyPattern/robot/Atom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategyPattern/robot/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategyPattern/robot/TaekwonV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/elevator/AfternoonSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/elevator/MorningSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/elevator/SelectAlgoElevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/elevator/SelectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryPattern/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryPattern/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryPattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryPattern/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryPattern/TypeA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryPattern/TypeB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryPattern/TypeC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryPattern/TypeFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Printer/Document.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Printer/Document.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Printer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Printer/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Printer/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Printer/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Printer/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Printer/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Printer/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/printer/Document.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Printer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/printer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Printer/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/printer/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Printer/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/printer/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/elevator/ElevatorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/elevator/ElevatorController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/elevator/ElevatorManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/elevator/ElevatorManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/elevator/ElevatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/elevator/ElevatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/elevator/ElevatorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/elevator/ElevatorManager.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -39,25 +32,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/main/java/elevator/Client.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="243">
-                    <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -66,13 +40,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/Type.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -80,99 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/elevator/ElevatorController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/robot/Robot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-              <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/Attack/AttackStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/Attack/MissileStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/Attack/PunchStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/robot/TaekwonV.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-              <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/robot/Atom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="31" />
-              <folding>
-                <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#121#122#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/RobotMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -180,8 +60,74 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/elevator/ElevatorManager.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/elevator/SelectFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="10" column="68" lean-forward="true" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/elevator/MorningSelect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/elevator/SelectAlgoElevator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/ClassA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/TypeA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/TypeFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -210,7 +156,6 @@
         <option value="$PROJECT_DIR$/src/main/java/test/Account.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/Deposit.java" />
         <option value="$PROJECT_DIR$/src/main/java/elevator/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/elevator/ElevatorController.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/strategyPattern/AttackStrategy.java" />
         <option value="$PROJECT_DIR$/src/main/java/strategyPattern/MissileStrategy.java" />
@@ -218,16 +163,33 @@
         <option value="$PROJECT_DIR$/src/main/java/strategyPattern/Robot.java" />
         <option value="$PROJECT_DIR$/src/main/java/strategyPattern/robot/TaekwonV.java" />
         <option value="$PROJECT_DIR$/src/main/java/strategyPattern/robot/Atom.java" />
-        <option value="$PROJECT_DIR$/src/main/java/strategyPattern/robot/Robot.java" />
         <option value="$PROJECT_DIR$/src/main/java/strategyPattern/RobotMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strategyPattern/robot/Robot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/elevator/Elevator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/elevator/AfternoonElevator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/elevator/SelectElevator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/elevator/MorningSelect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/elevator/AfternoonSelect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/elevator/ElevatorController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryPattern/Type.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryPattern/TypeA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryPattern/TypeB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryPattern/TypeC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryPattern/TypeFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryPattern/ClassA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryPattern/ClassB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryPattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/elevator/SelectAlgoElevator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/elevator/SelectFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/elevator/ElevatorManager.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="1218" />
-    <option name="height" value="1038" />
+    <option name="x" value="641" />
+    <option name="y" value="1" />
+    <option name="width" value="1279" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectId" id="1R2VAnGiZPsXzRoRMyheavKg76x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -236,7 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -262,27 +224,11 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="printer-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="printer_project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="elevator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="printer-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="printer_project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="strategyPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StrategyPattern">
+  <component name="RunManager" selected="Application.Elevator">
     <configuration name="Account" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="account.TestMain" />
       <module name="printer-system.main" />
@@ -330,6 +276,20 @@
     </configuration>
     <configuration name="Date" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="printer-system.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Elevator" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="elevator.Client" />
+      <module name="printer-system.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryPattern" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="factoryPattern.Client" />
       <module name="printer-system.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -350,17 +310,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="elevator" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="elevator.Client" />
-      <module name="printer-system.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.PrinterSystem" />
       <item itemvalue="Application.Account" />
-      <item itemvalue="Application.elevator" />
+      <item itemvalue="Application.FactoryPattern" />
+      <item itemvalue="Application.Elevator" />
       <item itemvalue="Application.Date" />
       <item itemvalue="Application.StrategyPattern" />
     </list>
@@ -396,17 +350,22 @@
       <workItem from="1571197031851" duration="2244000" />
       <workItem from="1571284390696" duration="1960000" />
       <workItem from="1571369587037" duration="3281000" />
+      <workItem from="1571801499784" duration="3181000" />
+      <workItem from="1571888257384" duration="2669000" />
+      <workItem from="1571974924811" duration="3201000" />
+      <workItem from="1572233703149" duration="2924000" />
+      <workItem from="1572320469879" duration="3422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44502000" />
+    <option name="totallyTimeSpent" value="59899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16174497" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -414,8 +373,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36737588" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32765958" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30638298" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -506,24 +465,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/robot/TaekwonV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/elevator/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/elevator/Elevator.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/robot/Atom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -535,44 +477,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/RobotMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/robot/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/Attack/PunchStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="114">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -583,24 +491,168 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/elevator/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/elevator/AfternoonSelect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/robot/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/robot/TaekwonV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/Attack/AttackStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/TypeB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/TypeC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strategyPattern/RobotMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/ClassB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/TypeA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/elevator/SelectAlgoElevator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/elevator/MorningSelect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/elevator/ElevatorController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/ClassA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/TypeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/elevator/SelectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/elevator/ElevatorManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="68" lean-forward="true" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+        <state relative-caret-position="143">
+          <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

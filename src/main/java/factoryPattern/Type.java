@@ -1,4 +1,4 @@
 package factoryPattern;
 
-public class Type {
+public abstract class Type {
 }

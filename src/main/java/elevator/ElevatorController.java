@@ -2,10 +2,11 @@ package elevator;
 
 /**
  * Created by jack on 18/07/2019.
- */
+        */
 public class ElevatorController {
     private int id;
     private int curFloor;
+
 
     public ElevatorController(int id){
         this.id = id;
@@ -18,4 +19,7 @@ public class ElevatorController {
         curFloor = destination;
         System.out.println(" ==> " + curFloor);
     }
+
+
+
 }

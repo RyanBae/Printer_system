@@ -2,7 +2,7 @@ package elevator;
 
 import java.util.Random;
 
-public class AfternoonSelect implements SelectElevator{
+public class AfternoonSelect implements SelectAlgoElevator {
     @Override
     public int algorithm() {
         Random r = new Random();
